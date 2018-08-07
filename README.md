@@ -1,7 +1,7 @@
 # Simple Vue GraphQL project with sequelize and mysql
 
-For the css we use semantic https://semantic-ui.com/
-For the fake data we will use faker https://www.npmjs.com/package/faker
+- For the css we use semantic https://semantic-ui.com/
+- For the fake data we will use faker https://www.npmjs.com/package/faker
 
 ## Getting started
 
@@ -29,19 +29,19 @@ npm run start
 It will create table into your database surfers and add fake data from faker.
 
 2. Into the client directory :
-Open another bash.
-For information, I begun the project with the vue-cli command. 
+- Open another bash.
+- For information, I begun the project with the vue-cli command. 
 ```
 vue init webpack
 ```
 Here are my choosing options :
-Generate project in current directory > Y
-Vue build > Runtime + compiler
-Install vue-router > Y
-Use Eslint > n
-Set up unit tests > n
-Setup e2e tests with Nightwatch > n
-Yes, use NPM
+- Generate project in current directory > Y
+- Vue build > Runtime + compiler
+- Install vue-router > Y
+- Use Eslint > n
+- Set up unit tests > n
+- Setup e2e tests with Nightwatch > n
+- Yes, use NPM
 
 OR you can just run
 ```
